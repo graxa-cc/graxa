@@ -79,3 +79,5 @@ html_logo = "_static/logo.jpeg"
 html_css_files = [
     "css/custom.css"
 ]
+
+html_title = "graxa.cc"
