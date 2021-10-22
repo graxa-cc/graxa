@@ -13,10 +13,44 @@ Aqui você pode encontrar conteúdos para se inteirar sobre o que são alleycats
 História
 ========
 
-História história história
+As alleycats nasceram na América do Norte, ganhando muita força, principalmente, na cidade de Nova York.
+Organizadas por bike messengers, surgiram com o intuito de ocupar o espaço urbano, com cada evento refletindo a personalidade,
+o ambiente contemporâneo e o espírito competitivo de seus organizadores.
+
+Essas corridas, com formato e regras bastante flexíveis, são um verdadeiro teste de formação para ciclistas urbanos.
+Os ciclistas correm pela cidade passando por postos de controle (checkpoints), com base em endereços fornecidos por um mapa ou um guia de corrida.
+
+Em uma alleycat, planejar o trajeto é tão importante quanto pedalar. Como não existe um percurso pré-determinado,
+os ciclistas vão por onde bem entenderem, cada um fazendo a rota que achar melhor. Em algumas modalidades de alleycat,
+vence quem passar primeiro por todos os postos de controle, enquanto em outras, passar pelos postos é necessário para cumprir objetivos que valem pontos.
+
+As corridas podem ser extremamente cansativas, planejadas para eliminar todos que não os melhores e mais rápidos.
+Mas, ao mesmo tempo, visam também promover a união, fortalecimento da cultura ciclística urbana e, principalmente, a diversão.
+Os prêmios costumam ser simbólicos e bem-humorados, sendo comum, inclusive, ter um prêmio para o último lugar.
+Normalmente, após a corrida é realizada uma festa como evento de encerramento e espaço de confraternização.
+
+
+..
+   Referências
+   -----------
+
+   botar links aqui
 
 Vídeos de alleycats pelo mundo
 ==============================
+
+Red Light Go
+------------
+
+O documentário dirigido por Ben Barraud, Toby Barraud e Manny Kivowitz,
+disponível na íntegra no Youtube, é absolutamente imperdível.
+Nos dias atuais, em que a bicicleta fixa está também associada ao estereótipo
+*piso-de-taco-samambaia-na-parede-café-recém-moído*, a imersão no universo dos
+bike messengers de Nova York no início dos anos 2000 é quase um choque de realidade.
+
+.. raw:: html
+
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/1_TNZHuSPwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 FixaSP (São Paulo)
