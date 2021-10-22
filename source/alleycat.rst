@@ -52,6 +52,13 @@ bike messengers de Nova York no início dos anos 2000 é quase um choque de real
 
          <iframe width="560" height="315" src="https://www.youtube.com/embed/1_TNZHuSPwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Line of Sight
+-------------
+
+.. raw:: html
+
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/zjXEudOK04s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 FixaSP (São Paulo)
 ------------------
