@@ -30,11 +30,16 @@ Os prêmios costumam ser simbólicos e bem-humorados, sendo comum, inclusive, te
 Normalmente, após a corrida é realizada uma festa como evento de encerramento e espaço de confraternização.
 
 
-..
-   Referências
-   -----------
+Referências
+-----------
 
-   botar links aqui
+- https://www.pedal.com.br/alley-cat-a-louca-corrida-das-fixas-em-nova-york_texto6537.html
+- https://en.wikipedia.org/wiki/Alleycat_race (em inglês)
+
+     
+
+     
+   
 
 Vídeos de alleycats pelo mundo
 ==============================
