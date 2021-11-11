@@ -10,3 +10,8 @@ Ciclofeira 13/11
 
 
 Acompanhe em: `@graxa.cc <https://instagram.com/graxa.cc>`_ e `@colaemgoma <https://instagram.com/colaemgoma>`_
+
+Inscrição
+=========
+
+Inscreva-se para o evento `aqui <https://forms.gle/F5Aj3rjUrqnVQFAu9>`_, leva menos de dez segundos.
